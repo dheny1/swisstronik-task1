@@ -15,7 +15,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/gadroen/swisstronik.git
+git clone https://github.com/dheny1/swisstronik-task1.git
 ```
 
 ```
@@ -108,7 +108,7 @@ npm run set-message
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [gadroen](https://github.com/gadroen)
-telegram : @EwinGadroen
+github : [Utrecht](https://github.com/dheny1)
+telegram : @nft127
 
 //0x6f5c1bEB0Ae14D1422B4B3b874ac6D3d225f9940//
